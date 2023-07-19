@@ -1,0 +1,12 @@
+{
+    
+  "manifest_version": 3,
+  "name": "Daily Task",
+  "description" : "This extentions is used to manage task",
+  "version": "1.0.0",
+  "icons" : {
+    "16" : "icon.png",
+    "46" : "icon.png",
+    "128" : "icon.png"
+  }
+}
